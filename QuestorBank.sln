@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestorBank", "QuestorBank\QuestorBank.csproj", "{F1640897-0665-4373-A188-12C52C1BF619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1640897-0665-4373-A188-12C52C1BF619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1640897-0665-4373-A188-12C52C1BF619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1640897-0665-4373-A188-12C52C1BF619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1640897-0665-4373-A188-12C52C1BF619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3A66804-9DAC-4E6D-A2C3-E518E375A545}
+	EndGlobalSection
+EndGlobal
